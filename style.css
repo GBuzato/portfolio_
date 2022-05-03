@@ -14,5 +14,6 @@ a {
 body {
     height: 100vh;
     background: linear-gradient(to top,  #C6837A, #61595D);
+    font-family: 'Cuprum', sans-serif;
 }
 
