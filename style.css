@@ -17,3 +17,49 @@ body {
     font-family: 'Cuprum', sans-serif;
 }
 
+h1 {
+    font-size: 50px;
+}
+
+#tittle-front {
+    font-size: 23px;
+}
+
+.content-main {
+    text-align: center;
+}
+
+#about-p {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#form {
+    width: 40%;
+    margin: 0 auto;
+}
+
+#form input {
+    width: 45%;
+}
+
+#form button {
+    width: 15%;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.nav-ul {
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+h4 {
+    font-size: 200%;
+}
